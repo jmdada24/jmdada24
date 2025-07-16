@@ -1,5 +1,7 @@
-# Hi everyone! 👋 I'm John Mhel Dalumpines
+# Hi everyone! I'm John Mhel Dalumpines 👋
 
+**`Computer Science Student`**
+An aspiring Web Developer and Data Scientist, driven to create something from scratch that could change the world.
 
 ## 🛠️ Tools & Languages
 
@@ -28,8 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/>
 </p>
 
+<!--**Experience:** Still gaining... -->
 
-<h2 align="left">Contact me here</h3>
+
+<h2 align="left">You contact me here</h3>
 
 <div align="left">
   
