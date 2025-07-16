@@ -1,6 +1,7 @@
 # Hi everyone! I'm John Mhel Dalumpines 👋
 
 **`Computer Science Student`**
+
 An aspiring Web Developer and Data Scientist, driven to create something from scratch that could change the world.
 
 ## 🛠️ Tools & Languages
