@@ -26,7 +26,7 @@
 <h2 align="left">Contact me here</h3>
 
 <div align="left">
-   <a href="mailto:jmdalumpines24@gmail.com" target="_blank">
+   <a href="https://mail.google.com/mail/?view=cm&to=jmdalumpines24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/john-mhel-dalumpines-3853412a5/" target="_blank">
