@@ -1,4 +1,4 @@
-# Hi there 👋 I'm John Mhel Dalumpines
+# Hi everyone! 👋 I'm John Mhel Dalumpines
 
 
 ## 🛠️ Tools & Languages
@@ -19,11 +19,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/>
+  
 </p>
 
----
 
-- 🌱 I’m currently learning: **ReactJS** and **Laravel**
+<h2 align="left">Contact me here</h3>
 
-- 📫 How to reach me: jmdalumpines24@gmail.com 
+<div align="left">
+   <a href="mailto:jmdalumpines24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-mhel-dalumpines-3853412a5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://web.facebook.com/jm.jayem.75" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+</div>
+
 
