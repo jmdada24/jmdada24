@@ -35,6 +35,7 @@ An aspiring Web Developer and Data Scientist, driven to create something from sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40px" alt="Firebase"/>
 </p>
 
 <!--**Experience:** Still gaining... -->
