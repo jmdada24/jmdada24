@@ -34,7 +34,7 @@ An aspiring Web Developer and Data Scientist, driven to create something from sc
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40px" alt="Firebase" />
