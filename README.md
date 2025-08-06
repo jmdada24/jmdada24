@@ -22,6 +22,7 @@ An aspiring Web Developer and Data Scientist, driven to create something from sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
   <!-- Optional Laravel colorful version below -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40px" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" width="40px" alt="tailwind"/>
 </p>
 
 ### 🗄️ Database
