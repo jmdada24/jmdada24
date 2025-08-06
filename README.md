@@ -22,7 +22,8 @@ An aspiring Web Developer and Data Scientist, driven to create something from sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
   <!-- Optional Laravel colorful version below -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40px" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" width="40px" alt="tailwind"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
+  
 </p>
 
 ### 🗄️ Database
@@ -33,10 +34,10 @@ An aspiring Web Developer and Data Scientist, driven to create something from sc
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40px" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40px" alt="Firebase" />
 </p>
 
 <!--**Experience:** Still gaining... -->
