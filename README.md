@@ -4,7 +4,7 @@
 
 An aspiring Web Developer and Data Scientist, driven to create something from scratch that could change the world.
 
-![Profile views](https://komarev.com/ghpvc/?username=jmdada24&label=Visitors&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=jmdada24&label=My-Visitors&color=blue&style=flat)
 
 
 ## 🛠️ Tools & Languages
